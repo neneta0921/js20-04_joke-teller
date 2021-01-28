@@ -29,7 +29,7 @@ body {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url("./robot.gif");
+  background: url("../image/robot.gif");
   background-size: contain;
   background-position: left center;
   background-repeat: no-repeat;
